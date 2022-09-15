@@ -1,0 +1,8 @@
+function Echos(param1) {
+
+   let result = param1.length;
+   console.log(result);
+   console.log(param1);
+}
+
+Echos('Hello, JavaScript!); 
